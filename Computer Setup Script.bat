@@ -4,8 +4,7 @@
 
 cls
 
-:: \networkpath\*.xml is the equivalent of using netsh wlan export profile name="*" folder="\networkpath\"
-:: Where \networkpath\ is the folder you want all of your profiles in.
+:: \networkpath\*.xml is the equivalent of using netsh wlan export profile name="*" folder="\networkpath\" where \networkpath\ is the folder you want all of your profiles in.
 SET NETWORKPROFILES=\networkpath\*.xml
 :: Path to browsers literal .exe file
 SET BROWSERPATH="PathToBrowser"
