@@ -1,5 +1,7 @@
 # Windows-Setup-Tools
-Some tools for windows setup on new computers
+Some tools for windows setup on new computers in lang-batch.
+
+# No third-party compilers required
 
 Includes:
 - Automatic renaming batch file, 
